@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black; /* Aquí puedes personalizar el grosor y el color del borde */
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: darkblue;
+}
+
+strong{
+    color: rgb(160, 119, 95);
+    font-size: 15px;
+    
+}
+small{
+    color: blue;
+    font-size: 10px;
+}
+em{
+    color: darkmagenta;
+    font-size: 15px;
+}
+.centrar-img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+p{
+    text-align: left;
+}
